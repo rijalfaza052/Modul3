@@ -8,6 +8,6 @@ package Modul3_No6;
  *
  * @author faza
  */
-public class Main {
+public class ItemPerpustakaan {
     
 }

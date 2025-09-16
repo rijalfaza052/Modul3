@@ -8,6 +8,6 @@ package Modul3_No5;
  *
  * @author faza
  */
-public class Main {
+public class Rekening {
     
 }
